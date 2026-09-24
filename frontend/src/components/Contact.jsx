@@ -21,8 +21,8 @@ const contactItems = [
     id: 2,
     title: "Email",
     value: "konveksindo.ph@gmail.com",
-    href: "mailto:konveksindo.ph@gmail.com",
-    target: "_self",
+    href: "https://mail.google.com/mail/?view=cm&fs=1&to=konveksindo.ph@gmail.com",
+    target: "_blank",
     actionText: "Kirim Email",
     icon: (
       <svg className="h-6 w-6 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
